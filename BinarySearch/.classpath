@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry excluding="jmlunit/|jmlunitng/search/|jmlunitng/" kind="src" path="tests"/>
+	<classpathentry kind="src" path="tests/jmlunitng"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="/home/kjunias/UdeS/MGE/MLinSWE/libs/jmlunitng/builds/jmlunitng-1.4/jmlunitng-1_4.jar"/>
+	<classpathentry kind="lib" path="/home/kjunias/UdeS/MGE/MLinSWE/libs/jmlunitng/builds/jmlunitng-1.4/jml4rt.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
